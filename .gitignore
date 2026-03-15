@@ -1,11 +1,40 @@
-data
-bubble_bivariate.png
-.env
-diurnal_cycle.png
-histogram.png
-log_scaled_survival_cdf.png
-pca_analysis_plot.png
+# Data
+data/
+*.ddb
+duckdb_temp/
+locations_metadata.json
 
-seasonal_cycle.png
-small_multiples.png
-temporal_heatmap.png
+# Environment
+.env
+.env*
+venv/
+env/
+.venv/
+
+# Outputs
+outputs/
+*.png
+*.jpg
+*.jpeg
+*.pdf
+*.docx
+*.log
+
+# Python
+__pycache__/
+*.py[cod]
+*$py.class
+.pytest_cache/
+.coverage
+htmlcov/
+.ipynb_checkpoints/
+
+# IDEs
+.vscode/
+.idea/
+*.swp
+*.swo
+
+# OS
+.DS_Store
+Thumbs.db

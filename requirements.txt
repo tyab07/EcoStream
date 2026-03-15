@@ -1,0 +1,11 @@
+streamlit
+duckdb
+pandas
+numpy
+plotly
+scikit-learn
+requests
+python-dotenv
+matplotlib
+seaborn
+scipy
