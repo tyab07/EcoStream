@@ -54,6 +54,7 @@ Launch the interactive dashboard:
 streamlit run src/app.py
 ```
 
+
 ## 🎨 Visualization Principles (Tufte-Compliance)
 
 This project strictly adheres to Edward Tufte's principles of visual integrity:
