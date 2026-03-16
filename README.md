@@ -49,7 +49,7 @@ EcoStream is a high-performance environmental intelligence dashboard designed to
 
 ## 📈 Usage
 
-Launch the interactive dashboard:
+run this command to launch the dashboard
 ```bash
 streamlit run src/app.py
 ```
